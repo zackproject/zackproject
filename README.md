@@ -1,7 +1,9 @@
 # Personal Projects 👋
 
-## Minigames accesibles with html, css and js
-Uploading nowadays news accesible games with all people [zksama.com](https://www.zksama.com) | [Github Repository](https://github.com/zackproject/zackproject.github.io)
+## Minigames accesibles
+With html, css and js vanilla.
+
+[zksama.com](https://www.zksama.com) | [Github Repository](https://github.com/zackproject/zackproject.github.io)
 
 <img src="https://github.com/zackproject/zackproject/assets/44408822/665993fe-ffe4-4982-97a6-024bb6825361" width=50% height=50%>
 
