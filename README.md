@@ -5,7 +5,7 @@ With html, css and js vanilla.
 
 [zksama.com](https://www.zksama.com) | [Github Repository](https://github.com/zackproject/zackproject.github.io)
 
-<img src="https://github.com/zackproject/zackproject/assets/44408822/665993fe-ffe4-4982-97a6-024bb6825361" width=50% height=50%>
+<img src="https://github.com/zackproject/zackproject/assets/44408822/785b9937-b762-4835-a7f2-1a1e8d2a8cff" width=50% height=50%>
 
 ## Twitter bots with python
 ### Battle Royale
