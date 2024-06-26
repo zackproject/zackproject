@@ -7,9 +7,12 @@ With html, css and js vanilla.
 
 <img src="https://github.com/zackproject/zackproject/assets/44408822/785b9937-b762-4835-a7f2-1a1e8d2a8cff" width=50% height=50%>
 
-## Building Node Express with Typeorm with Users🛠️
-[github.com/zackproject/zksama-express-typeorm](https://github.com/zackproject/zksama-express-typeorm) | [Github Repository](https://github.com/zackproject/zackproject.github.io)
-![image](https://github.com/zackproject/zackproject/assets/44408822/1c5286bc-e0c3-4952-927d-0ed3d974cdb5)
+## Node Express with Typeorm
+Building a future backend api for zksama.com with users 🛠️
+
+ [Github Repository](https://github.com/zackproject/zksama-express-typeorm)
+
+<img src="https://github.com/zackproject/zackproject/assets/44408822/1c5286bc-e0c3-4952-927d-0ed3d974cdb5" width=50% height=50%>
 
 ## Twitter bots with python
 ### Battle Royale
