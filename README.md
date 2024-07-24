@@ -73,14 +73,6 @@
 
 
 ## Twitter bots with python
-### Battle Royale
-Battle Royale with Python and Firebase [Twitter Battle Royale](https://twitter.com/animeroyalebot) | [Github Repository](https://github.com/zackproject/anime_royale)
-<img src="https://github.com/zackproject/zackproject/assets/44408822/02c78f34-37c7-4b97-b98e-dd7e6cf0eb3a" width=30% height=30%>
-
-
-
-### Pokemon Daily
-One Pokemon of Pokedex daily on [Twitter](https://twitter.com/pokehlgame)
-<img src="https://github.com/zackproject/zackproject/assets/44408822/1120cba4-4ee3-423d-9793-9ad32cd04840" width=30% height=30%>
-
-
+| [Battle Royale Twitter](https://github.com/zackproject/anime_royale) |
+|-----------|
+| <div align="center"><img src="https://github.com/zackproject/zackproject/assets/44408822/02c78f34-37c7-4b97-b98e-dd7e6cf0eb3a" width=30% height=30%> <div/>|
