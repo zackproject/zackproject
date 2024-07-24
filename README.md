@@ -51,8 +51,6 @@
 
 ###
 
-###
-
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
@@ -65,14 +63,16 @@
 | <img src="https://github.com/zackproject/zackproject/assets/44408822/785b9937-b762-4835-a7f2-1a1e8d2a8cff" width=100% height=100%> | <img src="https://github.com/zackproject/zackproject/assets/44408822/1c5286bc-e0c3-4952-927d-0ed3d974cdb5" width=100% height=100%>  | <img src="https://github.com/user-attachments/assets/6e9477cb-9c92-420d-870a-16bf7e07c7a0" width=100% height=100%>
    |  <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/> <div/> | <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /> <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  /> <div/> | <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /> <div/>   |
 
+| [Battle Royale Twitter](https://github.com/zackproject/anime_royale) |
+|-----------|
+| <div align="center"><img src="https://github.com/zackproject/zackproject/assets/44408822/02c78f34-37c7-4b97-b98e-dd7e6cf0eb3a" width=30% height=30%> <div/>|
+| <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  /> </div> |
+
+###
+
 ## Contributing
 | [La Velada IV](https://github.com/midudev/la-velada-web-oficial/pulls?q=+zackproject+)|
 |-----------|
 | <div align="center"><img src="https://github.com/user-attachments/assets/8a0dedfb-e773-4c6c-8bc7-efae0b6e81bc" width=30% height=30%> <div/>|
 | <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="30" alt="astro logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /> </div>    |
 
-
-## Twitter bots with python
-| [Battle Royale Twitter](https://github.com/zackproject/anime_royale) |
-|-----------|
-| <div align="center"><img src="https://github.com/zackproject/zackproject/assets/44408822/02c78f34-37c7-4b97-b98e-dd7e6cf0eb3a" width=30% height=30%> <div/>|
