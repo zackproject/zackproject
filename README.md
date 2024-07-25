@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Desarrollo web y otros proyectos<br>informáticos, actualmente, me dedico a crear aplicaciones web<br>inclusivas y accesibles para todos los usuarios. Sé trabajar en equipos<br>varios y creo que la retroalimentación es esencial para mejorar. El<br>mi objetivo es seguir evolucionando como profesional de la<br>informática y contribuir a proyectos tecnológicos desafiantes.</p>
+<p align="left">Desarrollo web y otros proyectos informáticos. Actualmente, me dedico a crear aplicaciones web inclusivas y accesibles para todos los usuarios. Sé trabajar en equipos diversos y creo que la retroalimentación es esencial para mejorar. Mi objetivo es seguir evolucionando como profesional de la informática y contribuir a proyectos tecnológicos desafiantes.</p>
 
 ###
 
